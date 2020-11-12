@@ -1,5 +1,6 @@
 <h1>Overview</h1>
 
+<b>Note: this code is intended to be moved to the opsafe-workers repo<b>. 
 - This application assumes we will be hitting the Cerner sandbox to retrieve any
 patient records
 
